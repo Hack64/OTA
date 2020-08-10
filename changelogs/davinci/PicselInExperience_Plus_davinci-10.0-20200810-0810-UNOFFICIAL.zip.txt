@@ -6,6 +6,7 @@ Device Tree changes:
 - Some powerhint changes;
 - Addressed some SELinux denials;
 - Updated OpenGL and Vulkan drivers;
+- Fixed CTS failing;
 
 ROM changes:
 - Reintroduced FaceUnlock (Many thanks to Twel12);

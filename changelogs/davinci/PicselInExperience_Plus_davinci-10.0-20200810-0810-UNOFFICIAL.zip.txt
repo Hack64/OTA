@@ -1,0 +1,12 @@
+Device Tree changes:
+- Tree rebase;
+- Updated VantomKernel;
+- Switched to OSS Audio HAL;
+- GCam by Urnyx05 included by default;
+- Some powerhint changes;
+- Addressed some SELinux denials;
+- Updated OpenGL and Vulkan drivers;
+
+ROM changes:
+- Reintroduced FaceUnlock (Many thanks to Twel12);
+- OTA Updates are here (Thanks to Twel12 and Ray);

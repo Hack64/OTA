@@ -1,0 +1,6 @@
+Device tree changes:
+- Added Screen Off FOD
+
+
+ROM changes:
+- Added Screen Off FOD backend

@@ -1,0 +1,12 @@
+Device changes:
+
+- Cleaned up vendor
+- Fixed a libperfmgr error spam
+- Added screen off fod
+- Updated VantomKernel
+
+ROM changes:
+- August security patches
+- New volume panel (ported from LOS)
+- Screen off fod backend
+- FOD Animations picker

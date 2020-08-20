@@ -1,0 +1,8 @@
+ Device changes:
+- Removed some non functional entries in powerhint
+- Fixed "none" FOD Animation
+- FOD Animations will now appear on AOD too
+- Updated VantomKernel & compiled with proton clang
+
+ROM changes:
+- None

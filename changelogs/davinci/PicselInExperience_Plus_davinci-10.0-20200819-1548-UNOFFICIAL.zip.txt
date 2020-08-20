@@ -1,8 +1,9 @@
  Device changes:
-- Removed some non functional entries in powerhint
+- Removed some non functional entries in powerhint (thanks to DarkDampSquib)
 - Fixed "none" FOD Animation
 - FOD Animations will now appear on AOD too
 - Updated VantomKernel & compiled with proton clang
+- Fixed echo in VoIP calls (thanks to Arian)
 
 ROM changes:
 - None

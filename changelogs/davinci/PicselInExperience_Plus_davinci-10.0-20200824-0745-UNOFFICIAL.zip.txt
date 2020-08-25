@@ -1,0 +1,8 @@
+Device tree changes:
+- Updated VantomKernel
+- Fixed some safetynet issues
+- Tuned powerhint
+- Improved battery life
+
+ROM changes:
+- None

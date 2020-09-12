@@ -1,0 +1,25 @@
+Device side changes:
+- New Vantom Kernel, tweaked specifically for the new power hal changes
+- Zram optimizations from Pixel 4A
+- Power hal optimizations from Pixel 4A
+- Slightly boosted mic volume
+- Fixed android auto charging issue
+- Improved wifi related stuff and dropped some deprecated code
+- Some fstab changes
+- Tree rebase over Arian's latest changes
+- Tweaked speaker volume
+- Fixed ANXCamera v190 front cam crash
+- Updated GCam to Urnyx05's v2.2 (this has a new package name, so you can install another gcam without deleting the included one!) 
+- Some other stuff (check my github if you're interested)
+
+ROM side changes (from me):
+- Added VoLTE icon from OOS
+- Added a new FOD animation (from Mi A3)
+- Added more toggles to sysui tuner: you can now disable volte, vpn, roaming and data saver icons
+
+ROM side changes (from PE):
+- September security patches
+- Pocket mode
+- Volume panel improvements
+- New translations
+- Face Unlock improvements

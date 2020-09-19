@@ -1,0 +1,13 @@
+Device side changes:
+- Updated CPU frequency table
+- Updated VantomKernel
+- Dropped some useless properties
+- WiFi tweaks
+- Battery life improvements
+
+ROM side changes (from me):
+- None
+
+ROM side changes (from PE):
+- Pocket mode improvements
+- New translations

@@ -1,0 +1,9 @@
+ Device side changes:
+- Fixed low battery lag issues (sorry about that)
+- Updated VantomKernel
+
+ROM side changes (from me):
+- Added bolt icon when charging in text battery style
+
+ROM side changes (from PE):
+- None

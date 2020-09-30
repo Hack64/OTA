@@ -1,0 +1,10 @@
+Device side changes:
+- Tree cleanup
+- Updated VantomKernel
+- Improved battery life
+
+ROM side changes (from me):
+- None
+
+ROM side changes (from PE):
+- Synced sources
